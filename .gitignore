@@ -1,9 +1,9 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+RealTimePainting/[Ll]ibrary/
+RealTimePainting/[Tt]emp/
+RealTimePainting/[Oo]bj/
+RealTimePainting/[Bb]uild/
+RealTimePainting/[Bb]uilds/
+RealTimePainting/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
